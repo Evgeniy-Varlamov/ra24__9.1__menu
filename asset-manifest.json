@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra24__9.1__menu/static/css/main.90d0a029.chunk.css",
+    "main.js": "/ra24__9.1__menu/static/js/main.b1e44b09.chunk.js",
+    "main.js.map": "/ra24__9.1__menu/static/js/main.b1e44b09.chunk.js.map",
+    "runtime-main.js": "/ra24__9.1__menu/static/js/runtime-main.0654a5f5.js",
+    "runtime-main.js.map": "/ra24__9.1__menu/static/js/runtime-main.0654a5f5.js.map",
+    "static/js/2.7cff5f6a.chunk.js": "/ra24__9.1__menu/static/js/2.7cff5f6a.chunk.js",
+    "static/js/2.7cff5f6a.chunk.js.map": "/ra24__9.1__menu/static/js/2.7cff5f6a.chunk.js.map",
+    "index.html": "/ra24__9.1__menu/index.html",
+    "precache-manifest.20ac7512ebfc94b4892d473d63c52556.js": "/ra24__9.1__menu/precache-manifest.20ac7512ebfc94b4892d473d63c52556.js",
+    "service-worker.js": "/ra24__9.1__menu/service-worker.js",
+    "static/css/main.90d0a029.chunk.css.map": "/ra24__9.1__menu/static/css/main.90d0a029.chunk.css.map",
+    "static/js/2.7cff5f6a.chunk.js.LICENSE.txt": "/ra24__9.1__menu/static/js/2.7cff5f6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0654a5f5.js",
+    "static/js/2.7cff5f6a.chunk.js",
+    "static/css/main.90d0a029.chunk.css",
+    "static/js/main.b1e44b09.chunk.js"
+  ]
+}
